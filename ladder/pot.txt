@@ -1,0 +1,5 @@
+Jarek:300
+Marek:200
+Lojza:100
+Josef:90
+jmjj:20
